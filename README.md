@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhung0811&show_icons=true,&hide=contribs,&theme=swift,&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhung0811&show_icons=true,&hide=contribs,&theme=swift)
 <!--
 **dhung0811/dhung0811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
