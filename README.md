@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm currently studying Computer Network and Data Communication at University of Information Technology - VNUHCM
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dhung811) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhungg) 
